@@ -1,0 +1,7 @@
+Cafeteria-Black is used for waves messages, Malgun Gothic is the main font.
+
+To create your own font for I.RULE you will need GameMaker Studio (I'm using GameMaker Studio 1.4). When you are ready to create it, use the settings that are in "Settings.jpg".
+
+Also you will need Russian letters: "йцукенгшщзхфывапролджэячсмитьбюъёЙЦУКЕНГШЩЗХФЫВАПРОЛДЖЭЯЧСМИТЬБЮЪЁ"
+
+Here's a video tutorial about how create fonts in GameMaker Studio 2: https://www.youtube.com/watch?v=QIfgwtgSl4s
